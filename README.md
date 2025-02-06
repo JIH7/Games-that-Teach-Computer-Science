@@ -4,6 +4,8 @@ A list of educational games that teach computer science concepts.
 ## Programming Concepts
 
 ### Free Games
+[Screeps](https://screeps.com/) - An online game where JavaScript is used to program a colony of creatures. Scripts continue to run and creatures continue to exist when the player is offline, and they can interact with the colonies of other players.
+
 [CodeWars](https://www.codewars.com/) - Introduces a game-like structure to a massive collection of programming challenges in just about any language you'd like to learn.
 
 ### Paid Games
@@ -15,8 +17,6 @@ A list of educational games that teach computer science concepts.
 
 ### Free Games
 [Flexbox Froggy](https://flexboxfroggy.com/) - Teaches the user how to use CSS Flexbox by using Flexbox properties to place frogs on their lilypads.
-
-[Screeps](https://screeps.com/) - An online game where JavaScript is used to program a colony of creatures. Scripts continue to run and creatures continue to exist when the player is offline, and they can interact with the colonies of other players.
 
 [Flexbox Zombies](https://mastery.games/flexboxzombies/) - A similar to Flexbox Froggy. Use Flexbox properties to line up all of hte zombies to be hit by your crossbow. Covers the same basics as Flexbox Froggy but goes much deeper.
 

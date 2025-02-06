@@ -18,6 +18,8 @@ A list of educational games that teach computer science concepts.
 
 [Flexbox Zombies](https://mastery.games/flexboxzombies/) - A similar to Flexbox Froggy. Use Flexbox properties to line up all of hte zombies to be hit by your crossbow. Covers the same basics as Flexbox Froggy but goes much deeper.
 
+[Grid Garden](https://cssgridgarden.com/) - Just like Flexbox Froggy, but teaches CSS Grid.
+
 ## Machine Learning
 
 ### Paid Games
@@ -32,3 +34,6 @@ A list of educational games that teach computer science concepts.
 
 ## Free Games
 [AWS Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/) - A 3D RPG that teaches the basics of the AWS cloud platform.
+
+## Non Educational Games with Programming Themes
+These games feature elements of programming, but computer science education is not the main goal.

@@ -25,7 +25,7 @@ A list of educational games that teach computer science concepts.
 ## Machine Learning
 
 ### Paid Games
-[While True: Learn](https://store.steampowered.com/app/619150/while_True_learn/) - Teaches the player some basic programming concepts
+[While True: Learn](https://store.steampowered.com/app/619150/while_True_learn/) - Teaches the player some basic programming concepts before taking you on an extremely deep dive into machine learning concepts.
 
 ## Computer Architecture
 
